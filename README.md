@@ -1,3 +1,3 @@
 # React Native App
 
-<img src="assets/todo_demo.gif" alt="gif" />
+<img src="assets/todo_record.gif" alt="gif" />
